@@ -1,0 +1,2 @@
+# PythonRUS
+Python для русских
